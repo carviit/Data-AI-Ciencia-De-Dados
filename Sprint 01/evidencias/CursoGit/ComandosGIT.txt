@@ -19,3 +19,17 @@ Comandos GIT
 --> git -amend (Altera o último commit)
 
 --> git log -p (Mostra log com detalhes de o que foi alterado em cada commit)
+
+--> git reset --hard codigocommit (Desfaz o ultimo commit e retorna para o penultimo ou selecionado)
+
+--> git config alias.nomeatalho "comando se tiver espaço" se não não tem aspas.
+
+--> git branch nomebranch (Cria branch)
+
+--> git branch (Lista todas as branch)
+
+--> git switch nomebranch (Altera para a branch)
+
+--> git branch -d nomebranch (Deletar branch)
+
+--> git switch -c nomebranch (cria e altera para a nova branch)

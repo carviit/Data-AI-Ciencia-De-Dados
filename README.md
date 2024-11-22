@@ -15,7 +15,16 @@ Sou natural de Belo Horizonte, MG 🏙️, e tenho uma curiosidade interessante:
 ### Resumo do que foi aprendido por Sprint
 
 - **Sprint 1:**  
-  - [Resumo do conteúdo aprendido e habilidades desenvolvidas]  
+  Durante a Sprint 1, concluí o curso **"Aprenda Git e Github em 3 dias + projetos reais"** do André Iacono. Neste curso, aprendi os conceitos fundamentais de **Git** e **GitHub**, incluindo: 
+
+  - O que é controle de versão e a importância do Git para gerenciar projetos de software.  
+  - Como criar, inicializar e manipular repositórios locais e remotos.  
+  - Comandos essenciais como `git init`, `git add`, `git commit`, `git push`, `git pull`, `git clone` e `git branch`.  
+  - Gerenciamento de branches, merge de alterações e resolução de conflitos.  
+  - Como utilizar o GitHub para hospedar repositórios, colaborar com outros desenvolvedores e contribuir para projetos open source.  
+  - Práticas recomendadas para escrever mensagens de commit claras e gerenciar versões de forma eficiente.  
+  - Como criar e gerenciar **issues** no GitHub para organizar tarefas e acompanhar o progresso de projetos colaborativos.  
+  - Como criar **releases** no GitHub para versionar entregas de software e destacar mudanças importantes de cada versão.  
 
 - **Sprint 2:**  
   - [Resumo do conteúdo aprendido e habilidades desenvolvidas]  
@@ -30,7 +39,7 @@ Sou natural de Belo Horizonte, MG 🏙️, e tenho uma curiosidade interessante:
 1. [Sprint 1](Sprint%201/README.md)  
 2. [Sprint 2](Sprint%202/README.md)  
 3. [Sprint 3](Sprint%203/README.md)  
-4.   
+4. ...  
 
 ---
 

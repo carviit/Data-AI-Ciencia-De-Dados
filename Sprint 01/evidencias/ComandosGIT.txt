@@ -31,3 +31,5 @@ Comandos GIT
 --> git switch nomebranch (Altera para a branch)
 
 --> git branch -d nomebranch (Deletar branch)
+
+--> git push --all (Carrega todas as branchs para o github)
